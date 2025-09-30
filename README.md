@@ -1,5 +1,5 @@
 # Job_Finding_Platform
-#overview
+#overview:
      The Job Finding Portal is a web-based application designed to connect job seekers with employers. It enables users to create accounts, upload resumes, search for jobs, and apply online. Companies can post job listings, manage applications, and shortlist candidates. The project follows a microservices architecture and is developed using Spring Boot with Maven in Eclipse.
 
 #key technologies used
