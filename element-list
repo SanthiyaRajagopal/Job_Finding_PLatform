@@ -1,0 +1,9 @@
+com.JobFindingPlatform
+com.JobFindingPlatform.Controller
+com.JobFindingPlatform.DTO
+com.JobFindingPlatform.Entity
+com.JobFindingPlatform.Enum
+com.JobFindingPlatform.Repository
+com.JobFindingPlatform.Security
+com.JobFindingPlatform.Service
+connection
